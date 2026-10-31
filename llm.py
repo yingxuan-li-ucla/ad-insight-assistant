@@ -19,7 +19,7 @@ import pandas as pd
 import analytics as an
 
 PROVIDERS = {
-    "DeepSeek": {"base_url": "https://api.deepseek.com", "model": "deepseek-chat"},
+    "DeepSeek": {"base_url": "https://api.deepseek.com", "model": "deepseek-flash"},
     "OpenAI": {"base_url": None, "model": "gpt-4.1-mini"},
     "通义千问": {"base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1", "model": "qwen-plus"},
     "自定义（OpenAI 兼容）": {"base_url": "", "model": ""},
