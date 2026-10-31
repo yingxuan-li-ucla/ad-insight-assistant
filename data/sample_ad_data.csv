@@ -1,0 +1,575 @@
+date,channel,campaign,market,creative,spend,impressions,clicks,conversions,revenue
+2026-08-31,Meta,Prospecting_US,US,video_A,921.94,88409,1181,44,2758.5
+2026-09-01,Meta,Prospecting_US,US,video_A,838.58,73023,941,28,1989.85
+2026-09-02,Meta,Prospecting_US,US,video_A,830.96,72363,837,23,1521.4
+2026-09-03,Meta,Prospecting_US,US,video_A,926.31,82507,1020,30,2006.84
+2026-09-04,Meta,Prospecting_US,US,video_A,891.8,84627,940,19,1330.41
+2026-09-05,Meta,Prospecting_US,US,video_A,915.75,79774,943,34,2318.25
+2026-09-06,Meta,Prospecting_US,US,video_A,837.66,72634,795,22,1505.74
+2026-09-07,Meta,Prospecting_US,US,video_A,874.89,81417,1044,26,1677.78
+2026-09-08,Meta,Prospecting_US,US,video_A,910.25,79988,919,22,1533.44
+2026-09-09,Meta,Prospecting_US,US,video_A,873.86,80987,935,31,2068.42
+2026-09-10,Meta,Prospecting_US,US,video_A,947.91,86600,1012,35,2219.37
+2026-09-11,Meta,Prospecting_US,US,video_A,993.54,91959,1098,27,1820.91
+2026-09-12,Meta,Prospecting_US,US,video_A,931.28,83667,1004,30,2045.89
+2026-09-13,Meta,Prospecting_US,US,video_A,1015.33,93420,1075,37,2538.14
+2026-09-14,Meta,Prospecting_US,US,video_A,814.41,76483,914,34,2184.68
+2026-09-15,Meta,Prospecting_US,US,video_A,826.88,74010,989,29,2201.85
+2026-09-16,Meta,Prospecting_US,US,video_A,841.47,78119,937,27,1914.29
+2026-09-17,Meta,Prospecting_US,US,video_A,779.42,72622,822,24,1640.5
+2026-09-18,Meta,Prospecting_US,US,video_A,830.51,78341,1026,27,1897.58
+2026-09-19,Meta,Prospecting_US,US,video_A,888.72,80957,909,39,2603.74
+2026-09-20,Meta,Prospecting_US,US,video_A,911.52,83359,1052,33,2263.69
+2026-09-21,Meta,Prospecting_US,US,video_A,913.19,88431,976,33,2398.72
+2026-09-22,Meta,Prospecting_US,US,video_A,946.32,87760,1064,32,2205.38
+2026-09-23,Meta,Prospecting_US,US,video_A,752.39,68566,768,23,1509.06
+2026-09-24,Meta,Prospecting_US,US,video_A,902.21,84053,905,37,2570.16
+2026-09-25,Meta,Prospecting_US,US,video_A,883.88,79390,937,28,1910.89
+2026-09-26,Meta,Prospecting_US,US,video_A,838.57,77345,806,29,1996.89
+2026-09-27,Meta,Prospecting_US,US,video_A,745.4,68319,769,23,1509.14
+2026-09-28,Meta,Prospecting_US,US,video_A,1053.31,102343,1112,32,2428.86
+2026-09-29,Meta,Prospecting_US,US,video_A,828.95,76294,964,18,1205.58
+2026-09-30,Meta,Prospecting_US,US,video_A,880.82,79155,932,28,1981.13
+2026-10-01,Meta,Prospecting_US,US,video_A,900.01,84881,1061,29,2137.11
+2026-10-02,Meta,Prospecting_US,US,video_A,918.8,88446,1088,43,2980.16
+2026-10-03,Meta,Prospecting_US,US,video_A,866.05,77707,949,35,2370.15
+2026-10-04,Meta,Prospecting_US,US,video_A,773.52,69185,921,28,1969.79
+2026-10-05,Meta,Prospecting_US,US,video_A,875.92,74768,921,32,2278.48
+2026-10-06,Meta,Prospecting_US,US,video_A,959.62,88551,1038,34,2403.52
+2026-10-07,Meta,Prospecting_US,US,video_A,905.07,77727,1031,43,3009.47
+2026-10-08,Meta,Prospecting_US,US,video_A,1008.81,88876,1068,31,2110.76
+2026-10-09,Meta,Prospecting_US,US,video_A,853.03,73313,916,30,2064.84
+2026-10-10,Meta,Prospecting_US,US,video_A,942.55,93044,1183,46,3233.92
+2026-10-11,Meta,Prospecting_US,US,video_A,837.84,76733,926,36,2545.9
+2026-10-12,Meta,Prospecting_US,US,video_A,840.8,75670,957,21,1503.91
+2026-10-13,Meta,Prospecting_US,US,video_A,1067.59,98059,1006,28,1869.14
+2026-10-14,Meta,Prospecting_US,US,video_A,931.65,82532,1031,32,1974.93
+2026-10-15,Meta,Prospecting_US,US,video_A,950.54,85819,1089,40,2777.67
+2026-10-16,Meta,Prospecting_US,US,video_A,871.65,77228,913,24,1686.15
+2026-10-17,Meta,Prospecting_US,US,video_A,731.98,68879,871,19,1302.22
+2026-10-18,Meta,Prospecting_US,US,video_A,844.6,71914,816,21,1394.05
+2026-10-19,Meta,Prospecting_US,US,video_A,957.86,80179,832,27,1759.58
+2026-10-20,Meta,Prospecting_US,US,video_A,966.84,90636,1095,37,2450.15
+2026-10-21,Meta,Prospecting_US,US,video_A,875.32,85919,1076,24,1704.76
+2026-10-22,Meta,Prospecting_US,US,video_A,1049.54,95082,1165,30,1970.99
+2026-10-23,Meta,Prospecting_US,US,video_A,785.55,79671,917,28,1881.67
+2026-10-24,Meta,Prospecting_US,US,video_A,925.04,85841,984,25,1742.1
+2026-10-25,Meta,Prospecting_US,US,video_A,1003.19,90783,1104,24,1620.88
+2026-08-31,Meta,Prospecting_US,US,carousel_B,629.4,60912,697,17,1109.15
+2026-09-01,Meta,Prospecting_US,US,carousel_B,512.09,52082,464,7,487.2
+2026-09-02,Meta,Prospecting_US,US,carousel_B,457.7,47048,578,15,967.84
+2026-09-03,Meta,Prospecting_US,US,carousel_B,604.77,60738,637,29,1965.17
+2026-09-04,Meta,Prospecting_US,US,carousel_B,553.43,57913,680,22,1533.53
+2026-09-05,Meta,Prospecting_US,US,carousel_B,612.39,56795,575,14,907.42
+2026-09-06,Meta,Prospecting_US,US,carousel_B,574.14,54297,498,15,923.22
+2026-09-07,Meta,Prospecting_US,US,carousel_B,587.84,59255,611,15,1017.99
+2026-09-08,Meta,Prospecting_US,US,carousel_B,614.23,55750,593,15,960.16
+2026-09-09,Meta,Prospecting_US,US,carousel_B,575.34,60209,625,14,925.89
+2026-09-10,Meta,Prospecting_US,US,carousel_B,592.34,61233,650,21,1305.72
+2026-09-11,Meta,Prospecting_US,US,carousel_B,609.11,65689,686,27,1764.0
+2026-09-12,Meta,Prospecting_US,US,carousel_B,634.29,57669,610,15,999.32
+2026-09-13,Meta,Prospecting_US,US,carousel_B,687.42,74930,791,33,2132.65
+2026-09-14,Meta,Prospecting_US,US,carousel_B,624.74,64331,710,11,707.51
+2026-09-15,Meta,Prospecting_US,US,carousel_B,550.35,54395,515,15,958.06
+2026-09-16,Meta,Prospecting_US,US,carousel_B,578.85,57792,600,17,1143.14
+2026-09-17,Meta,Prospecting_US,US,carousel_B,550.05,62551,743,22,1428.46
+2026-09-18,Meta,Prospecting_US,US,carousel_B,590.88,62571,679,16,992.88
+2026-09-19,Meta,Prospecting_US,US,carousel_B,629.53,68916,720,15,1063.17
+2026-09-20,Meta,Prospecting_US,US,carousel_B,628.19,61831,597,21,1453.22
+2026-09-21,Meta,Prospecting_US,US,carousel_B,556.68,56637,626,17,1049.49
+2026-09-22,Meta,Prospecting_US,US,carousel_B,637.67,62910,599,12,818.48
+2026-09-23,Meta,Prospecting_US,US,carousel_B,620.17,60837,616,18,1217.7
+2026-09-24,Meta,Prospecting_US,US,carousel_B,671.92,68769,654,13,849.57
+2026-09-25,Meta,Prospecting_US,US,carousel_B,562.44,63625,649,12,785.63
+2026-09-26,Meta,Prospecting_US,US,carousel_B,597.27,56749,567,6,404.85
+2026-09-27,Meta,Prospecting_US,US,carousel_B,633.68,66826,703,24,1506.96
+2026-09-28,Meta,Prospecting_US,US,carousel_B,550.93,55359,657,13,806.64
+2026-09-29,Meta,Prospecting_US,US,carousel_B,636.83,67532,657,24,1587.69
+2026-09-30,Meta,Prospecting_US,US,carousel_B,607.59,58484,631,16,961.08
+2026-10-01,Meta,Prospecting_US,US,carousel_B,510.73,50821,537,17,1145.17
+2026-10-02,Meta,Prospecting_US,US,carousel_B,698.34,64111,706,15,1023.86
+2026-10-03,Meta,Prospecting_US,US,carousel_B,630.5,60800,655,23,1409.7
+2026-10-04,Meta,Prospecting_US,US,carousel_B,680.73,62656,713,24,1669.58
+2026-10-05,Meta,Prospecting_US,US,carousel_B,619.06,61719,652,13,855.26
+2026-10-06,Meta,Prospecting_US,US,carousel_B,611.94,61059,607,13,852.82
+2026-10-07,Meta,Prospecting_US,US,carousel_B,618.78,67948,729,23,1582.32
+2026-10-08,Meta,Prospecting_US,US,carousel_B,547.98,53869,582,9,620.14
+2026-10-09,Meta,Prospecting_US,US,carousel_B,572.26,56511,569,12,801.87
+2026-10-10,Meta,Prospecting_US,US,carousel_B,545.31,55875,638,20,1208.24
+2026-10-11,Meta,Prospecting_US,US,carousel_B,471.7,46254,528,17,1104.95
+2026-10-12,Meta,Prospecting_US,US,carousel_B,583.87,53309,572,18,1183.57
+2026-10-13,Meta,Prospecting_US,US,carousel_B,640.86,66435,732,18,1164.73
+2026-10-14,Meta,Prospecting_US,US,carousel_B,600.67,59072,648,17,1151.92
+2026-10-15,Meta,Prospecting_US,US,carousel_B,604.03,62572,710,11,714.18
+2026-10-16,Meta,Prospecting_US,US,carousel_B,551.62,53234,564,16,973.27
+2026-10-17,Meta,Prospecting_US,US,carousel_B,598.66,59198,654,16,1006.5
+2026-10-18,Meta,Prospecting_US,US,carousel_B,579.3,66212,623,13,838.86
+2026-10-19,Meta,Prospecting_US,US,carousel_B,650.37,67312,660,21,1300.86
+2026-10-20,Meta,Prospecting_US,US,carousel_B,676.24,69795,795,17,1064.69
+2026-10-21,Meta,Prospecting_US,US,carousel_B,619.06,60232,629,19,1312.06
+2026-10-22,Meta,Prospecting_US,US,carousel_B,665.44,73451,731,19,1259.98
+2026-10-23,Meta,Prospecting_US,US,carousel_B,591.85,57985,543,23,1518.37
+2026-10-24,Meta,Prospecting_US,US,carousel_B,614.86,59725,547,14,958.75
+2026-10-25,Meta,Prospecting_US,US,carousel_B,623.56,58825,681,23,1538.39
+2026-08-31,Meta,Retargeting_US,US,static_C,301.74,16393,294,18,1259.08
+2026-09-01,Meta,Retargeting_US,US,static_C,349.95,19052,411,38,2626.3
+2026-09-02,Meta,Retargeting_US,US,static_C,342.84,19780,395,32,2277.94
+2026-09-03,Meta,Retargeting_US,US,static_C,322.01,18872,353,20,1358.39
+2026-09-04,Meta,Retargeting_US,US,static_C,356.43,19099,376,35,2378.45
+2026-09-05,Meta,Retargeting_US,US,static_C,400.24,20863,367,25,1855.21
+2026-09-06,Meta,Retargeting_US,US,static_C,348.34,20084,333,26,1872.22
+2026-09-07,Meta,Retargeting_US,US,static_C,371.17,20237,353,26,1834.5
+2026-09-08,Meta,Retargeting_US,US,static_C,351.46,19796,379,25,1824.47
+2026-09-09,Meta,Retargeting_US,US,static_C,290.98,16465,242,14,1007.81
+2026-09-10,Meta,Retargeting_US,US,static_C,335.99,18224,308,25,1871.0
+2026-09-11,Meta,Retargeting_US,US,static_C,323.27,17125,302,27,1884.72
+2026-09-12,Meta,Retargeting_US,US,static_C,323.24,17573,301,18,1301.68
+2026-09-13,Meta,Retargeting_US,US,static_C,354.2,19281,331,29,2075.16
+2026-09-14,Meta,Retargeting_US,US,static_C,331.96,18497,292,14,1066.27
+2026-09-15,Meta,Retargeting_US,US,static_C,343.58,20739,351,32,2425.56
+2026-09-16,Meta,Retargeting_US,US,static_C,356.83,19974,400,30,2169.54
+2026-09-17,Meta,Retargeting_US,US,static_C,368.29,20747,359,40,2971.58
+2026-09-18,Meta,Retargeting_US,US,static_C,348.12,17924,341,17,1284.81
+2026-09-19,Meta,Retargeting_US,US,static_C,364.55,21428,412,29,2021.64
+2026-09-20,Meta,Retargeting_US,US,static_C,342.39,20184,358,25,1805.69
+2026-09-21,Meta,Retargeting_US,US,static_C,322.32,17512,294,21,1497.74
+2026-09-22,Meta,Retargeting_US,US,static_C,347.24,19529,313,17,1211.12
+2026-09-23,Meta,Retargeting_US,US,static_C,386.08,21382,397,21,1512.23
+2026-09-24,Meta,Retargeting_US,US,static_C,334.79,18585,327,21,1488.76
+2026-09-25,Meta,Retargeting_US,US,static_C,376.95,20660,379,23,1663.33
+2026-09-26,Meta,Retargeting_US,US,static_C,339.83,19122,313,21,1459.94
+2026-09-27,Meta,Retargeting_US,US,static_C,296.57,16572,295,18,1213.05
+2026-09-28,Meta,Retargeting_US,US,static_C,361.69,21514,399,29,2140.86
+2026-09-29,Meta,Retargeting_US,US,static_C,360.23,19417,285,16,1198.43
+2026-09-30,Meta,Retargeting_US,US,static_C,404.89,23965,402,24,1654.85
+2026-10-01,Meta,Retargeting_US,US,static_C,347.13,19933,353,23,1597.74
+2026-10-02,Meta,Retargeting_US,US,static_C,336.31,18859,309,12,816.38
+2026-10-03,Meta,Retargeting_US,US,static_C,387.1,21553,405,27,2004.85
+2026-10-04,Meta,Retargeting_US,US,static_C,333.85,18042,344,32,2200.53
+2026-10-05,Meta,Retargeting_US,US,static_C,352.42,19263,337,26,1914.72
+2026-10-06,Meta,Retargeting_US,US,static_C,321.96,16497,296,19,1371.72
+2026-10-07,Meta,Retargeting_US,US,static_C,392.47,22708,421,19,1333.61
+2026-10-08,Meta,Retargeting_US,US,static_C,336.5,17804,310,26,1838.52
+2026-10-09,Meta,Retargeting_US,US,static_C,368.54,19829,356,28,2132.88
+2026-10-10,Meta,Retargeting_US,US,static_C,350.65,20082,406,17,1213.33
+2026-10-11,Meta,Retargeting_US,US,static_C,357.01,21242,390,38,2826.2
+2026-10-12,Meta,Retargeting_US,US,static_C,357.21,19040,310,17,1167.33
+2026-10-13,Meta,Retargeting_US,US,static_C,278.71,15022,298,17,1102.54
+2026-10-14,Meta,Retargeting_US,US,static_C,340.27,20089,363,0,0.0
+2026-10-15,Meta,Retargeting_US,US,static_C,360.53,21635,414,0,0.0
+2026-10-16,Meta,Retargeting_US,US,static_C,377.09,20647,351,31,2298.25
+2026-10-17,Meta,Retargeting_US,US,static_C,357.56,19463,408,29,2142.95
+2026-10-18,Meta,Retargeting_US,US,static_C,361.98,19678,320,18,1415.74
+2026-10-19,Meta,Retargeting_US,US,static_C,346.94,19521,372,21,1533.33
+2026-10-20,Meta,Retargeting_US,US,static_C,335.8,19046,384,19,1418.14
+2026-10-21,Meta,Retargeting_US,US,static_C,360.55,21226,388,27,2018.62
+2026-10-22,Meta,Retargeting_US,US,static_C,354.96,19436,391,26,1657.31
+2026-10-23,Meta,Retargeting_US,US,static_C,352.64,18439,272,12,832.35
+2026-10-24,Meta,Retargeting_US,US,static_C,362.94,22244,457,36,2573.08
+2026-10-25,Meta,Retargeting_US,US,static_C,333.74,17918,310,24,1727.39
+2026-08-31,Google Search,Brand_Search,US,rsa_brand,349.83,7312,617,50,3812.1
+2026-09-01,Google Search,Brand_Search,US,rsa_brand,393.3,8572,763,70,4721.36
+2026-09-02,Google Search,Brand_Search,US,rsa_brand,391.33,9119,705,43,3038.53
+2026-09-03,Google Search,Brand_Search,US,rsa_brand,411.54,9828,922,64,4531.98
+2026-09-04,Google Search,Brand_Search,US,rsa_brand,389.58,8442,673,58,4298.27
+2026-09-05,Google Search,Brand_Search,US,rsa_brand,411.43,8722,661,63,4491.09
+2026-09-06,Google Search,Brand_Search,US,rsa_brand,354.33,8637,709,75,5247.18
+2026-09-07,Google Search,Brand_Search,US,rsa_brand,418.03,9236,754,68,4605.87
+2026-09-08,Google Search,Brand_Search,US,rsa_brand,380.28,8460,646,52,3588.51
+2026-09-09,Google Search,Brand_Search,US,rsa_brand,410.57,9221,768,53,3703.6
+2026-09-10,Google Search,Brand_Search,US,rsa_brand,428.66,10582,764,81,5507.87
+2026-09-11,Google Search,Brand_Search,US,rsa_brand,394.55,9815,810,78,5527.57
+2026-09-12,Google Search,Brand_Search,US,rsa_brand,423.98,10289,779,84,5818.64
+2026-09-13,Google Search,Brand_Search,US,rsa_brand,392.43,9573,740,92,6541.88
+2026-09-14,Google Search,Brand_Search,US,rsa_brand,355.97,8167,598,50,3613.28
+2026-09-15,Google Search,Brand_Search,US,rsa_brand,363.3,8471,660,49,3452.23
+2026-09-16,Google Search,Brand_Search,US,rsa_brand,410.93,9137,657,50,3504.12
+2026-09-17,Google Search,Brand_Search,US,rsa_brand,395.1,8544,671,59,3862.23
+2026-09-18,Google Search,Brand_Search,US,rsa_brand,355.63,8502,682,78,5542.55
+2026-09-19,Google Search,Brand_Search,US,rsa_brand,365.84,8152,686,70,4621.33
+2026-09-20,Google Search,Brand_Search,US,rsa_brand,393.03,8904,684,72,5031.42
+2026-09-21,Google Search,Brand_Search,US,rsa_brand,343.14,7503,556,60,4207.82
+2026-09-22,Google Search,Brand_Search,US,rsa_brand,324.98,6689,552,46,3062.88
+2026-09-23,Google Search,Brand_Search,US,rsa_brand,434.7,10595,854,74,5137.78
+2026-09-24,Google Search,Brand_Search,US,rsa_brand,401.71,8980,807,59,4015.33
+2026-09-25,Google Search,Brand_Search,US,rsa_brand,412.43,10049,832,77,5904.63
+2026-09-26,Google Search,Brand_Search,US,rsa_brand,377.72,8300,642,46,3130.01
+2026-09-27,Google Search,Brand_Search,US,rsa_brand,392.72,9493,794,91,6185.01
+2026-09-28,Google Search,Brand_Search,US,rsa_brand,420.49,9602,742,58,4201.78
+2026-09-29,Google Search,Brand_Search,US,rsa_brand,382.98,9077,760,76,5825.32
+2026-09-30,Google Search,Brand_Search,US,rsa_brand,404.53,10172,864,70,4811.13
+2026-10-01,Google Search,Brand_Search,US,rsa_brand,327.18,7044,597,51,3588.08
+2026-10-02,Google Search,Brand_Search,US,rsa_brand,433.51,10357,759,84,6145.15
+2026-10-03,Google Search,Brand_Search,US,rsa_brand,393.93,9128,741,61,4522.34
+2026-10-04,Google Search,Brand_Search,US,rsa_brand,384.26,8174,648,54,3680.76
+2026-10-05,Google Search,Brand_Search,US,rsa_brand,375.12,8607,639,40,2783.84
+2026-10-06,Google Search,Brand_Search,US,rsa_brand,385.56,8537,672,56,4095.54
+2026-10-07,Google Search,Brand_Search,US,rsa_brand,446.8,9542,779,56,3765.8
+2026-10-08,Google Search,Brand_Search,US,rsa_brand,346.93,7712,602,45,2916.63
+2026-10-09,Google Search,Brand_Search,US,rsa_brand,385.82,8590,675,65,4475.44
+2026-10-10,Google Search,Brand_Search,US,rsa_brand,405.45,9223,769,82,5851.12
+2026-10-11,Google Search,Brand_Search,US,rsa_brand,449.88,10455,819,72,5051.57
+2026-10-12,Google Search,Brand_Search,US,rsa_brand,407.03,9163,797,75,5126.66
+2026-10-13,Google Search,Brand_Search,US,rsa_brand,334.79,7427,536,50,3592.59
+2026-10-14,Google Search,Brand_Search,US,rsa_brand,415.2,9557,778,84,5972.52
+2026-10-15,Google Search,Brand_Search,US,rsa_brand,432.77,9479,798,67,4817.29
+2026-10-16,Google Search,Brand_Search,US,rsa_brand,380.28,8987,689,59,4250.57
+2026-10-17,Google Search,Brand_Search,US,rsa_brand,445.51,10131,819,63,4457.05
+2026-10-18,Google Search,Brand_Search,US,rsa_brand,363.62,9056,733,61,4005.09
+2026-10-19,Google Search,Brand_Search,US,rsa_brand,395.84,8532,685,73,5140.11
+2026-10-20,Google Search,Brand_Search,US,rsa_brand,417.66,10866,969,67,4574.43
+2026-10-21,Google Search,Brand_Search,US,rsa_brand,432.86,10641,929,79,5266.24
+2026-10-22,Google Search,Brand_Search,US,rsa_brand,372.38,7772,582,57,3984.69
+2026-10-23,Google Search,Brand_Search,US,rsa_brand,330.23,7480,516,51,3440.18
+2026-10-24,Google Search,Brand_Search,US,rsa_brand,343.16,7883,585,45,3264.42
+2026-10-25,Google Search,Brand_Search,US,rsa_brand,379.5,8549,687,68,4852.36
+2026-08-31,Google Search,Generic_Search,US,rsa_generic,686.79,23249,864,19,1150.81
+2026-09-01,Google Search,Generic_Search,US,rsa_generic,788.2,25646,915,17,1089.35
+2026-09-02,Google Search,Generic_Search,US,rsa_generic,711.11,24649,877,25,1625.01
+2026-09-03,Google Search,Generic_Search,US,rsa_generic,704.92,23045,825,21,1315.46
+2026-09-04,Google Search,Generic_Search,US,rsa_generic,621.33,19610,681,30,2011.3
+2026-09-05,Google Search,Generic_Search,US,rsa_generic,736.89,24575,924,43,2748.91
+2026-09-06,Google Search,Generic_Search,US,rsa_generic,655.76,21717,731,21,1264.88
+2026-09-07,Google Search,Generic_Search,US,rsa_generic,673.23,21063,734,26,1637.58
+2026-09-08,Google Search,Generic_Search,US,rsa_generic,755.81,26510,976,44,2890.35
+2026-09-09,Google Search,Generic_Search,US,rsa_generic,742.94,26380,995,43,2792.34
+2026-09-10,Google Search,Generic_Search,US,rsa_generic,721.26,24419,894,30,1917.52
+2026-09-11,Google Search,Generic_Search,US,rsa_generic,589.25,19901,709,19,1214.32
+2026-09-12,Google Search,Generic_Search,US,rsa_generic,722.81,23636,794,32,2131.76
+2026-09-13,Google Search,Generic_Search,US,rsa_generic,710.93,22974,798,37,2376.96
+2026-09-14,Google Search,Generic_Search,US,rsa_generic,598.74,18528,622,20,1243.45
+2026-09-15,Google Search,Generic_Search,US,rsa_generic,778.45,27382,888,24,1559.99
+2026-09-16,Google Search,Generic_Search,US,rsa_generic,727.41,24565,878,27,1742.87
+2026-09-17,Google Search,Generic_Search,US,rsa_generic,654.69,21749,780,30,2089.46
+2026-09-18,Google Search,Generic_Search,US,rsa_generic,705.49,21055,702,19,1177.15
+2026-09-19,Google Search,Generic_Search,US,rsa_generic,717.87,22511,787,19,1347.52
+2026-09-20,Google Search,Generic_Search,US,rsa_generic,647.21,20608,748,34,2170.47
+2026-09-21,Google Search,Generic_Search,US,rsa_generic,712.56,23059,849,18,1183.22
+2026-09-22,Google Search,Generic_Search,US,rsa_generic,772.86,24971,910,26,1851.21
+2026-09-23,Google Search,Generic_Search,US,rsa_generic,631.87,20715,695,20,1306.0
+2026-09-24,Google Search,Generic_Search,US,rsa_generic,713.13,26211,854,22,1408.98
+2026-09-25,Google Search,Generic_Search,US,rsa_generic,730.74,23504,795,21,1345.98
+2026-09-26,Google Search,Generic_Search,US,rsa_generic,700.79,23613,783,35,2224.15
+2026-09-27,Google Search,Generic_Search,US,rsa_generic,683.52,23315,836,26,1635.1
+2026-09-28,Google Search,Generic_Search,US,rsa_generic,651.48,21700,779,25,1558.45
+2026-09-29,Google Search,Generic_Search,US,rsa_generic,704.82,24465,767,25,1609.66
+2026-09-30,Google Search,Generic_Search,US,rsa_generic,727.16,25618,783,31,1910.71
+2026-10-01,Google Search,Generic_Search,US,rsa_generic,649.46,21983,833,17,1027.35
+2026-10-02,Google Search,Generic_Search,US,rsa_generic,611.4,21168,751,25,1533.66
+2026-10-03,Google Search,Generic_Search,US,rsa_generic,718.59,23661,866,32,1853.25
+2026-10-04,Google Search,Generic_Search,US,rsa_generic,744.2,24074,830,23,1445.18
+2026-10-05,Google Search,Generic_Search,US,rsa_generic,750.87,15073,444,13,894.77
+2026-10-06,Google Search,Generic_Search,US,rsa_generic,700.75,13415,495,16,1038.87
+2026-10-07,Google Search,Generic_Search,US,rsa_generic,611.5,12083,420,18,1132.34
+2026-10-08,Google Search,Generic_Search,US,rsa_generic,658.0,13638,459,13,802.38
+2026-10-09,Google Search,Generic_Search,US,rsa_generic,672.38,12384,439,16,1034.71
+2026-10-10,Google Search,Generic_Search,US,rsa_generic,703.13,13860,495,16,1040.59
+2026-10-11,Google Search,Generic_Search,US,rsa_generic,770.44,14724,535,11,718.55
+2026-10-12,Google Search,Generic_Search,US,rsa_generic,755.98,26389,796,36,2300.9
+2026-10-13,Google Search,Generic_Search,US,rsa_generic,746.73,23649,898,34,2159.46
+2026-10-14,Google Search,Generic_Search,US,rsa_generic,784.11,25192,903,26,1661.52
+2026-10-15,Google Search,Generic_Search,US,rsa_generic,767.72,23726,924,21,1325.06
+2026-10-16,Google Search,Generic_Search,US,rsa_generic,762.69,25925,830,22,1346.01
+2026-10-17,Google Search,Generic_Search,US,rsa_generic,680.14,25820,956,32,2051.49
+2026-10-18,Google Search,Generic_Search,US,rsa_generic,665.61,24127,863,30,1916.54
+2026-10-19,Google Search,Generic_Search,US,rsa_generic,663.92,21497,714,24,1553.28
+2026-10-20,Google Search,Generic_Search,US,rsa_generic,651.51,23666,892,27,1564.03
+2026-10-21,Google Search,Generic_Search,US,rsa_generic,604.64,21719,811,34,2111.16
+2026-10-22,Google Search,Generic_Search,US,rsa_generic,595.77,20141,764,31,1992.01
+2026-10-23,Google Search,Generic_Search,US,rsa_generic,699.06,21356,667,28,1719.01
+2026-10-24,Google Search,Generic_Search,US,rsa_generic,644.95,21205,796,23,1476.13
+2026-10-25,Google Search,Generic_Search,US,rsa_generic,745.88,21998,705,31,2045.03
+2026-08-31,TikTok,Spark_Ads_US,US,ugc_unboxing,773.73,110039,2554,31,1665.5
+2026-09-01,TikTok,Spark_Ads_US,US,ugc_unboxing,723.91,107181,2175,62,3786.23
+2026-09-02,TikTok,Spark_Ads_US,US,ugc_unboxing,820.98,113954,2263,38,2024.89
+2026-09-03,TikTok,Spark_Ads_US,US,ugc_unboxing,743.6,105086,2154,53,3059.94
+2026-09-04,TikTok,Spark_Ads_US,US,ugc_unboxing,814.71,116400,2403,69,4124.61
+2026-09-05,TikTok,Spark_Ads_US,US,ugc_unboxing,878.84,122170,2411,67,3961.3
+2026-09-06,TikTok,Spark_Ads_US,US,ugc_unboxing,857.94,124474,2261,71,4153.61
+2026-09-07,TikTok,Spark_Ads_US,US,ugc_unboxing,690.47,99711,2023,37,1991.45
+2026-09-08,TikTok,Spark_Ads_US,US,ugc_unboxing,869.27,127640,2497,54,3162.65
+2026-09-09,TikTok,Spark_Ads_US,US,ugc_unboxing,744.62,115762,2097,46,2719.25
+2026-09-10,TikTok,Spark_Ads_US,US,ugc_unboxing,929.32,145370,2544,56,3233.94
+2026-09-11,TikTok,Spark_Ads_US,US,ugc_unboxing,665.65,91261,1612,38,2235.65
+2026-09-12,TikTok,Spark_Ads_US,US,ugc_unboxing,830.04,106476,1848,54,3154.92
+2026-09-13,TikTok,Spark_Ads_US,US,ugc_unboxing,881.04,117781,1777,43,2485.32
+2026-09-14,TikTok,Spark_Ads_US,US,ugc_unboxing,890.25,125241,2028,45,2835.36
+2026-09-15,TikTok,Spark_Ads_US,US,ugc_unboxing,879.22,123826,1721,43,2439.75
+2026-09-16,TikTok,Spark_Ads_US,US,ugc_unboxing,756.55,108119,1703,40,2473.8
+2026-09-17,TikTok,Spark_Ads_US,US,ugc_unboxing,747.73,107045,1628,38,2199.09
+2026-09-18,TikTok,Spark_Ads_US,US,ugc_unboxing,789.99,104301,1485,30,1906.53
+2026-09-19,TikTok,Spark_Ads_US,US,ugc_unboxing,747.08,106836,1471,39,2176.0
+2026-09-20,TikTok,Spark_Ads_US,US,ugc_unboxing,777.77,119658,1685,42,2397.07
+2026-09-21,TikTok,Spark_Ads_US,US,ugc_unboxing,891.9,130443,1897,32,1883.13
+2026-09-22,TikTok,Spark_Ads_US,US,ugc_unboxing,878.9,126963,1815,34,1854.82
+2026-09-23,TikTok,Spark_Ads_US,US,ugc_unboxing,677.78,103443,1324,30,1714.55
+2026-09-24,TikTok,Spark_Ads_US,US,ugc_unboxing,809.32,113387,1356,28,1551.76
+2026-09-25,TikTok,Spark_Ads_US,US,ugc_unboxing,796.76,109939,1460,32,1845.5
+2026-09-26,TikTok,Spark_Ads_US,US,ugc_unboxing,730.49,103446,1463,38,2219.84
+2026-09-27,TikTok,Spark_Ads_US,US,ugc_unboxing,789.15,103231,1244,29,1594.41
+2026-09-28,TikTok,Spark_Ads_US,US,ugc_unboxing,784.95,99861,1346,24,1428.06
+2026-09-29,TikTok,Spark_Ads_US,US,ugc_unboxing,874.25,118685,1424,30,1792.18
+2026-09-30,TikTok,Spark_Ads_US,US,ugc_unboxing,807.29,109423,1300,39,2292.0
+2026-10-01,TikTok,Spark_Ads_US,US,ugc_unboxing,696.51,102228,1225,25,1409.75
+2026-10-02,TikTok,Spark_Ads_US,US,ugc_unboxing,849.27,115724,1422,26,1498.12
+2026-10-03,TikTok,Spark_Ads_US,US,ugc_unboxing,829.79,124851,1619,43,2543.99
+2026-10-04,TikTok,Spark_Ads_US,US,ugc_unboxing,796.39,117147,1311,29,1674.7
+2026-10-05,TikTok,Spark_Ads_US,US,ugc_unboxing,783.52,108811,1201,32,1928.0
+2026-10-06,TikTok,Spark_Ads_US,US,ugc_unboxing,806.96,106121,1069,22,1205.77
+2026-10-07,TikTok,Spark_Ads_US,US,ugc_unboxing,765.84,109366,1184,19,1136.38
+2026-10-08,TikTok,Spark_Ads_US,US,ugc_unboxing,819.13,113192,1262,29,1674.18
+2026-10-09,TikTok,Spark_Ads_US,US,ugc_unboxing,959.61,143661,1695,34,1893.46
+2026-10-10,TikTok,Spark_Ads_US,US,ugc_unboxing,757.47,114177,1240,24,1435.78
+2026-10-11,TikTok,Spark_Ads_US,US,ugc_unboxing,887.58,125272,1258,29,1677.89
+2026-10-12,TikTok,Spark_Ads_US,US,ugc_unboxing,840.5,124966,1567,36,1982.98
+2026-10-13,TikTok,Spark_Ads_US,US,ugc_unboxing,836.62,131652,1274,21,1125.67
+2026-10-14,TikTok,Spark_Ads_US,US,ugc_unboxing,765.62,114117,1260,31,1862.28
+2026-10-15,TikTok,Spark_Ads_US,US,ugc_unboxing,809.07,117923,1197,31,1828.32
+2026-10-16,TikTok,Spark_Ads_US,US,ugc_unboxing,757.56,111929,1111,24,1396.38
+2026-10-17,TikTok,Spark_Ads_US,US,ugc_unboxing,709.98,96498,1021,28,1626.68
+2026-10-18,TikTok,Spark_Ads_US,US,ugc_unboxing,834.81,122222,1422,34,1795.7
+2026-10-19,TikTok,Spark_Ads_US,US,ugc_unboxing,734.74,100384,973,21,1155.98
+2026-10-20,TikTok,Spark_Ads_US,US,ugc_unboxing,713.57,103552,978,16,971.73
+2026-10-21,TikTok,Spark_Ads_US,US,ugc_unboxing,774.32,114931,1239,33,1915.87
+2026-10-22,TikTok,Spark_Ads_US,US,ugc_unboxing,902.4,126247,1338,29,1603.3
+2026-10-23,TikTok,Spark_Ads_US,US,ugc_unboxing,834.0,118468,1177,29,1596.62
+2026-10-24,TikTok,Spark_Ads_US,US,ugc_unboxing,697.6,93094,863,22,1274.34
+2026-10-25,TikTok,Spark_Ads_US,US,ugc_unboxing,762.62,108300,1140,31,1789.01
+2026-08-31,TikTok,Spark_Ads_US,US,ugc_review,561.81,75647,1228,22,1253.18
+2026-09-01,TikTok,Spark_Ads_US,US,ugc_review,555.35,71748,1275,24,1525.09
+2026-09-02,TikTok,Spark_Ads_US,US,ugc_review,593.24,75985,1200,43,2562.6
+2026-09-03,TikTok,Spark_Ads_US,US,ugc_review,421.05,53313,847,25,1586.87
+2026-09-04,TikTok,Spark_Ads_US,US,ugc_review,539.49,74029,1180,30,1766.35
+2026-09-05,TikTok,Spark_Ads_US,US,ugc_review,500.53,64369,958,21,1231.3
+2026-09-06,TikTok,Spark_Ads_US,US,ugc_review,514.29,65023,1092,28,1617.77
+2026-09-07,TikTok,Spark_Ads_US,US,ugc_review,495.24,69106,1066,22,1256.94
+2026-09-08,TikTok,Spark_Ads_US,US,ugc_review,556.94,70736,1068,22,1272.13
+2026-09-09,TikTok,Spark_Ads_US,US,ugc_review,481.02,66365,1045,30,1753.87
+2026-09-10,TikTok,Spark_Ads_US,US,ugc_review,500.17,65844,1094,26,1457.01
+2026-09-11,TikTok,Spark_Ads_US,US,ugc_review,449.65,56968,834,17,995.05
+2026-09-12,TikTok,Spark_Ads_US,US,ugc_review,453.53,63337,1078,33,2008.79
+2026-09-13,TikTok,Spark_Ads_US,US,ugc_review,454.65,56844,927,33,1959.27
+2026-09-14,TikTok,Spark_Ads_US,US,ugc_review,542.11,72537,1198,21,1224.42
+2026-09-15,TikTok,Spark_Ads_US,US,ugc_review,548.62,67680,1150,27,1612.91
+2026-09-16,TikTok,Spark_Ads_US,US,ugc_review,450.05,59022,909,26,1540.94
+2026-09-17,TikTok,Spark_Ads_US,US,ugc_review,516.52,71463,1164,23,1298.27
+2026-09-18,TikTok,Spark_Ads_US,US,ugc_review,455.0,57055,936,22,1376.66
+2026-09-19,TikTok,Spark_Ads_US,US,ugc_review,490.9,64628,969,28,1678.28
+2026-09-20,TikTok,Spark_Ads_US,US,ugc_review,516.74,69363,1110,22,1412.37
+2026-09-21,TikTok,Spark_Ads_US,US,ugc_review,497.94,64625,1118,21,1186.58
+2026-09-22,TikTok,Spark_Ads_US,US,ugc_review,542.57,69934,1176,18,1076.44
+2026-09-23,TikTok,Spark_Ads_US,US,ugc_review,460.52,66374,978,17,1013.22
+2026-09-24,TikTok,Spark_Ads_US,US,ugc_review,485.71,69494,923,29,1687.8
+2026-09-25,TikTok,Spark_Ads_US,US,ugc_review,447.93,60346,1033,22,1246.72
+2026-09-26,TikTok,Spark_Ads_US,US,ugc_review,517.16,70157,1128,32,1931.79
+2026-09-27,TikTok,Spark_Ads_US,US,ugc_review,528.17,74227,1282,29,1593.4
+2026-09-28,TikTok,Spark_Ads_US,US,ugc_review,476.32,66552,1022,17,928.7
+2026-09-29,TikTok,Spark_Ads_US,US,ugc_review,534.79,73076,1161,22,1313.84
+2026-09-30,TikTok,Spark_Ads_US,US,ugc_review,465.89,61322,976,29,1704.67
+2026-10-01,TikTok,Spark_Ads_US,US,ugc_review,507.43,63980,1043,19,1144.59
+2026-10-02,TikTok,Spark_Ads_US,US,ugc_review,565.77,78893,1263,29,1608.52
+2026-10-03,TikTok,Spark_Ads_US,US,ugc_review,487.48,67770,1149,20,1151.77
+2026-10-04,TikTok,Spark_Ads_US,US,ugc_review,538.44,80259,1244,34,2109.54
+2026-10-05,TikTok,Spark_Ads_US,US,ugc_review,540.36,77300,1372,24,1334.73
+2026-10-06,TikTok,Spark_Ads_US,US,ugc_review,517.69,69236,1056,22,1304.08
+2026-10-07,TikTok,Spark_Ads_US,US,ugc_review,623.54,81047,1320,27,1502.8
+2026-10-08,TikTok,Spark_Ads_US,US,ugc_review,505.53,63928,1129,21,1185.36
+2026-10-09,TikTok,Spark_Ads_US,US,ugc_review,487.47,64462,1065,25,1466.47
+2026-10-10,TikTok,Spark_Ads_US,US,ugc_review,498.61,73401,1130,25,1433.68
+2026-10-11,TikTok,Spark_Ads_US,US,ugc_review,434.88,59011,975,27,1614.99
+2026-10-12,TikTok,Spark_Ads_US,US,ugc_review,507.1,65837,987,23,1356.43
+2026-10-13,TikTok,Spark_Ads_US,US,ugc_review,391.85,53922,801,14,817.38
+2026-10-14,TikTok,Spark_Ads_US,US,ugc_review,462.87,60252,900,19,1089.52
+2026-10-15,TikTok,Spark_Ads_US,US,ugc_review,438.55,63136,1041,33,1867.43
+2026-10-16,TikTok,Spark_Ads_US,US,ugc_review,488.88,64456,1032,33,1862.79
+2026-10-17,TikTok,Spark_Ads_US,US,ugc_review,479.98,69371,1086,26,1403.85
+2026-10-18,TikTok,Spark_Ads_US,US,ugc_review,524.04,73179,1145,30,1705.59
+2026-10-19,TikTok,Spark_Ads_US,US,ugc_review,450.09,57955,1032,19,1100.22
+2026-10-20,TikTok,Spark_Ads_US,US,ugc_review,485.68,68547,1101,11,662.1
+2026-10-21,TikTok,Spark_Ads_US,US,ugc_review,495.39,62714,986,38,2237.08
+2026-10-22,TikTok,Spark_Ads_US,US,ugc_review,531.7,77079,1387,31,1805.71
+2026-10-23,TikTok,Spark_Ads_US,US,ugc_review,502.56,68282,1208,18,1026.4
+2026-10-24,TikTok,Spark_Ads_US,US,ugc_review,436.75,56252,1047,26,1596.18
+2026-10-25,TikTok,Spark_Ads_US,US,ugc_review,490.89,63018,1025,38,2088.07
+2026-10-12,TikTok,Spark_Ads_SEA,SEA,kol_collab,665.4,183771,4844,155,6543.86
+2026-10-13,TikTok,Spark_Ads_SEA,SEA,kol_collab,629.32,176156,4242,153,6890.07
+2026-10-14,TikTok,Spark_Ads_SEA,SEA,kol_collab,641.97,152259,3799,121,5464.5
+2026-10-15,TikTok,Spark_Ads_SEA,SEA,kol_collab,611.59,142622,3392,89,4177.91
+2026-10-16,TikTok,Spark_Ads_SEA,SEA,kol_collab,607.75,140370,3288,107,4920.14
+2026-10-17,TikTok,Spark_Ads_SEA,SEA,kol_collab,651.63,160052,3829,128,5746.15
+2026-10-18,TikTok,Spark_Ads_SEA,SEA,kol_collab,555.82,128851,3210,92,3884.92
+2026-10-19,TikTok,Spark_Ads_SEA,SEA,kol_collab,535.89,127973,3048,74,3221.55
+2026-10-20,TikTok,Spark_Ads_SEA,SEA,kol_collab,587.21,151726,3988,109,4755.72
+2026-10-21,TikTok,Spark_Ads_SEA,SEA,kol_collab,518.2,123812,2892,72,3293.1
+2026-10-22,TikTok,Spark_Ads_SEA,SEA,kol_collab,539.71,136083,3533,121,5601.24
+2026-10-23,TikTok,Spark_Ads_SEA,SEA,kol_collab,637.68,156576,3827,122,5073.21
+2026-10-24,TikTok,Spark_Ads_SEA,SEA,kol_collab,603.77,151409,3708,138,5955.73
+2026-10-25,TikTok,Spark_Ads_SEA,SEA,kol_collab,621.51,158359,4434,133,5848.27
+2026-08-31,TikTok,Spark_Ads_SEA,SEA,ugc_local,266.65,71008,1041,22,863.1
+2026-09-01,TikTok,Spark_Ads_SEA,SEA,ugc_local,315.48,93724,1364,15,583.31
+2026-09-02,TikTok,Spark_Ads_SEA,SEA,ugc_local,308.36,89288,1384,35,1418.05
+2026-09-03,TikTok,Spark_Ads_SEA,SEA,ugc_local,301.11,90208,1480,33,1426.3
+2026-09-04,TikTok,Spark_Ads_SEA,SEA,ugc_local,293.67,78650,1211,27,1063.43
+2026-09-05,TikTok,Spark_Ads_SEA,SEA,ugc_local,293.42,90520,1443,31,1373.21
+2026-09-06,TikTok,Spark_Ads_SEA,SEA,ugc_local,320.48,88387,1330,23,957.0
+2026-09-07,TikTok,Spark_Ads_SEA,SEA,ugc_local,300.36,84124,1220,21,876.04
+2026-09-08,TikTok,Spark_Ads_SEA,SEA,ugc_local,258.37,73318,1218,16,687.25
+2026-09-09,TikTok,Spark_Ads_SEA,SEA,ugc_local,274.87,76206,1114,27,1105.28
+2026-09-10,TikTok,Spark_Ads_SEA,SEA,ugc_local,274.8,77476,1137,24,1113.9
+2026-09-11,TikTok,Spark_Ads_SEA,SEA,ugc_local,253.47,77546,1237,30,1224.76
+2026-09-12,TikTok,Spark_Ads_SEA,SEA,ugc_local,298.79,89351,1271,24,1029.06
+2026-09-13,TikTok,Spark_Ads_SEA,SEA,ugc_local,296.59,85935,1311,24,1002.07
+2026-09-14,TikTok,Spark_Ads_SEA,SEA,ugc_local,318.46,89008,1420,25,1051.94
+2026-09-15,TikTok,Spark_Ads_SEA,SEA,ugc_local,305.48,84604,1297,26,1059.86
+2026-09-16,TikTok,Spark_Ads_SEA,SEA,ugc_local,301.7,88167,1286,33,1348.69
+2026-09-17,TikTok,Spark_Ads_SEA,SEA,ugc_local,259.0,71733,1253,24,940.8
+2026-09-18,TikTok,Spark_Ads_SEA,SEA,ugc_local,293.23,86513,1304,35,1456.63
+2026-09-19,TikTok,Spark_Ads_SEA,SEA,ugc_local,295.23,90079,1406,22,907.59
+2026-09-20,TikTok,Spark_Ads_SEA,SEA,ugc_local,298.44,80557,1340,26,1132.52
+2026-09-21,TikTok,Spark_Ads_SEA,SEA,ugc_local,310.09,86242,1417,24,971.45
+2026-09-22,TikTok,Spark_Ads_SEA,SEA,ugc_local,309.0,97297,1303,15,675.99
+2026-09-23,TikTok,Spark_Ads_SEA,SEA,ugc_local,288.55,76517,1244,34,1343.63
+2026-09-24,TikTok,Spark_Ads_SEA,SEA,ugc_local,274.67,75316,1139,26,1059.29
+2026-09-25,TikTok,Spark_Ads_SEA,SEA,ugc_local,237.0,70652,1028,21,896.23
+2026-09-26,TikTok,Spark_Ads_SEA,SEA,ugc_local,294.11,79467,1128,21,888.47
+2026-09-27,TikTok,Spark_Ads_SEA,SEA,ugc_local,329.57,94463,1405,25,1039.26
+2026-09-28,TikTok,Spark_Ads_SEA,SEA,ugc_local,272.99,81962,1404,28,1139.55
+2026-09-29,TikTok,Spark_Ads_SEA,SEA,ugc_local,296.69,86141,1245,16,669.64
+2026-09-30,TikTok,Spark_Ads_SEA,SEA,ugc_local,243.98,70037,1228,24,975.3
+2026-10-01,TikTok,Spark_Ads_SEA,SEA,ugc_local,291.64,82946,1103,26,1092.45
+2026-10-02,TikTok,Spark_Ads_SEA,SEA,ugc_local,317.14,96311,1667,25,1004.11
+2026-10-03,TikTok,Spark_Ads_SEA,SEA,ugc_local,313.51,89495,1232,18,719.35
+2026-10-04,TikTok,Spark_Ads_SEA,SEA,ugc_local,273.04,76784,1074,17,700.04
+2026-10-05,TikTok,Spark_Ads_SEA,SEA,ugc_local,281.86,80305,1135,16,664.95
+2026-10-06,TikTok,Spark_Ads_SEA,SEA,ugc_local,243.85,73556,1179,16,635.22
+2026-10-07,TikTok,Spark_Ads_SEA,SEA,ugc_local,263.46,76154,1000,19,747.09
+2026-10-08,TikTok,Spark_Ads_SEA,SEA,ugc_local,332.46,84726,1237,21,803.08
+2026-10-09,TikTok,Spark_Ads_SEA,SEA,ugc_local,305.31,85541,1345,24,963.58
+2026-10-10,TikTok,Spark_Ads_SEA,SEA,ugc_local,318.96,98105,1418,28,1126.31
+2026-10-11,TikTok,Spark_Ads_SEA,SEA,ugc_local,328.79,91784,1430,24,1012.64
+2026-10-12,TikTok,Spark_Ads_SEA,SEA,ugc_local,329.69,94436,1467,21,880.04
+2026-10-13,TikTok,Spark_Ads_SEA,SEA,ugc_local,298.41,87034,1334,18,733.02
+2026-10-14,TikTok,Spark_Ads_SEA,SEA,ugc_local,331.43,88747,1433,25,1039.94
+2026-10-15,TikTok,Spark_Ads_SEA,SEA,ugc_local,262.47,74177,1118,25,1021.93
+2026-10-16,TikTok,Spark_Ads_SEA,SEA,ugc_local,317.86,87428,1384,24,993.58
+2026-10-17,TikTok,Spark_Ads_SEA,SEA,ugc_local,273.02,76326,1282,19,807.05
+2026-10-18,TikTok,Spark_Ads_SEA,SEA,ugc_local,324.28,93803,1341,25,1060.63
+2026-10-19,TikTok,Spark_Ads_SEA,SEA,ugc_local,334.31,97008,1389,18,730.66
+2026-10-20,TikTok,Spark_Ads_SEA,SEA,ugc_local,316.49,83254,1255,18,801.62
+2026-10-21,TikTok,Spark_Ads_SEA,SEA,ugc_local,267.44,82797,1142,14,572.86
+2026-10-22,TikTok,Spark_Ads_SEA,SEA,ugc_local,314.09,87147,1281,23,1050.96
+2026-10-23,TikTok,Spark_Ads_SEA,SEA,ugc_local,302.21,87003,1272,21,848.04
+2026-10-24,TikTok,Spark_Ads_SEA,SEA,ugc_local,295.75,84242,1369,25,1066.76
+2026-10-25,TikTok,Spark_Ads_SEA,SEA,ugc_local,320.78,88494,1347,22,933.05
+2026-08-31,YouTube,Awareness_Global,Global,bumper_6s,456.53,74540,295,3,194.27
+2026-09-01,YouTube,Awareness_Global,Global,bumper_6s,444.23,69143,246,3,174.62
+2026-09-02,YouTube,Awareness_Global,Global,bumper_6s,489.88,78278,296,3,203.0
+2026-09-03,YouTube,Awareness_Global,Global,bumper_6s,434.11,69720,339,5,315.05
+2026-09-04,YouTube,Awareness_Global,Global,bumper_6s,469.81,75226,330,2,132.94
+2026-09-05,YouTube,Awareness_Global,Global,bumper_6s,437.34,70168,232,1,68.82
+2026-09-06,YouTube,Awareness_Global,Global,bumper_6s,426.86,69248,251,1,67.93
+2026-09-07,YouTube,Awareness_Global,Global,bumper_6s,426.76,68613,247,1,66.94
+2026-09-08,YouTube,Awareness_Global,Global,bumper_6s,442.3,77503,307,0,0.0
+2026-09-09,YouTube,Awareness_Global,Global,bumper_6s,499.78,82465,327,5,323.1
+2026-09-10,YouTube,Awareness_Global,Global,bumper_6s,436.3,67895,228,0,0.0
+2026-09-11,YouTube,Awareness_Global,Global,bumper_6s,502.36,82181,310,1,63.54
+2026-09-12,YouTube,Awareness_Global,Global,bumper_6s,466.42,83281,329,6,369.01
+2026-09-13,YouTube,Awareness_Global,Global,bumper_6s,413.13,69180,282,6,399.47
+2026-09-14,YouTube,Awareness_Global,Global,bumper_6s,431.61,70490,264,2,125.91
+2026-09-15,YouTube,Awareness_Global,Global,bumper_6s,534.81,89264,340,4,256.18
+2026-09-16,YouTube,Awareness_Global,Global,bumper_6s,479.59,77692,297,4,251.23
+2026-09-17,YouTube,Awareness_Global,Global,bumper_6s,461.46,80152,299,2,141.02
+2026-09-18,YouTube,Awareness_Global,Global,bumper_6s,481.96,76059,303,4,263.13
+2026-09-19,YouTube,Awareness_Global,Global,bumper_6s,493.54,80338,361,2,138.44
+2026-09-20,YouTube,Awareness_Global,Global,bumper_6s,425.18,69409,315,8,506.1
+2026-09-21,YouTube,Awareness_Global,Global,bumper_6s,415.4,64680,262,5,327.66
+2026-09-22,YouTube,Awareness_Global,Global,bumper_6s,451.12,78517,314,5,327.89
+2026-09-23,YouTube,Awareness_Global,Global,bumper_6s,427.42,66372,261,4,265.02
+2026-09-24,YouTube,Awareness_Global,Global,bumper_6s,504.4,85648,352,2,127.57
+2026-09-25,YouTube,Awareness_Global,Global,bumper_6s,421.22,69020,319,5,308.47
+2026-09-26,YouTube,Awareness_Global,Global,bumper_6s,464.17,78887,325,6,384.1
+2026-09-27,YouTube,Awareness_Global,Global,bumper_6s,478.72,81680,302,4,252.57
+2026-09-28,YouTube,Awareness_Global,Global,bumper_6s,434.09,78527,279,5,325.97
+2026-09-29,YouTube,Awareness_Global,Global,bumper_6s,510.39,85873,366,7,441.85
+2026-09-30,YouTube,Awareness_Global,Global,bumper_6s,459.35,69309,269,3,197.55
+2026-10-01,YouTube,Awareness_Global,Global,bumper_6s,458.85,76584,328,4,254.36
+2026-10-02,YouTube,Awareness_Global,Global,bumper_6s,453.61,81712,313,5,319.25
+2026-10-03,YouTube,Awareness_Global,Global,bumper_6s,386.24,58958,223,1,67.66
+2026-10-04,YouTube,Awareness_Global,Global,bumper_6s,433.05,72070,286,3,203.75
+2026-10-05,YouTube,Awareness_Global,Global,bumper_6s,462.9,80758,294,2,132.7
+2026-10-06,YouTube,Awareness_Global,Global,bumper_6s,397.28,69798,251,1,64.06
+2026-10-07,YouTube,Awareness_Global,Global,bumper_6s,462.2,78484,330,4,270.07
+2026-10-08,YouTube,Awareness_Global,Global,bumper_6s,476.5,86110,334,5,348.03
+2026-10-09,YouTube,Awareness_Global,Global,bumper_6s,402.32,61111,246,3,189.6
+2026-10-10,YouTube,Awareness_Global,Global,bumper_6s,472.0,85642,383,7,478.31
+2026-10-11,YouTube,Awareness_Global,Global,bumper_6s,459.01,76250,289,3,185.12
+2026-10-12,YouTube,Awareness_Global,Global,bumper_6s,505.7,84631,385,2,131.27
+2026-10-13,YouTube,Awareness_Global,Global,bumper_6s,445.13,71519,264,4,250.98
+2026-10-14,YouTube,Awareness_Global,Global,bumper_6s,498.89,78603,321,5,315.96
+2026-10-15,YouTube,Awareness_Global,Global,bumper_6s,399.94,67291,241,0,0.0
+2026-10-16,YouTube,Awareness_Global,Global,bumper_6s,434.78,69615,298,4,263.46
+2026-10-17,YouTube,Awareness_Global,Global,bumper_6s,453.65,79914,314,5,343.2
+2026-10-18,YouTube,Awareness_Global,Global,bumper_6s,401.61,65602,259,2,126.77
+2026-10-19,YouTube,Awareness_Global,Global,bumper_6s,463.74,77496,315,2,135.13
+2026-10-20,YouTube,Awareness_Global,Global,bumper_6s,537.36,93374,405,5,348.21
+2026-10-21,YouTube,Awareness_Global,Global,bumper_6s,459.28,78576,322,4,262.24
+2026-10-22,YouTube,Awareness_Global,Global,bumper_6s,452.13,77850,319,3,198.34
+2026-10-23,YouTube,Awareness_Global,Global,bumper_6s,423.53,74185,340,5,318.78
+2026-10-24,YouTube,Awareness_Global,Global,bumper_6s,396.43,62669,248,4,252.71
+2026-10-25,YouTube,Awareness_Global,Global,bumper_6s,416.99,67456,270,2,136.62
+2026-08-31,YouTube,Awareness_Global,Global,instream_30s,585.6,65590,387,3,186.76
+2026-09-01,YouTube,Awareness_Global,Global,instream_30s,595.73,70369,408,4,252.68
+2026-09-02,YouTube,Awareness_Global,Global,instream_30s,628.95,75545,427,10,626.22
+2026-09-03,YouTube,Awareness_Global,Global,instream_30s,596.54,65391,350,4,265.87
+2026-09-04,YouTube,Awareness_Global,Global,instream_30s,604.68,66730,402,7,442.67
+2026-09-05,YouTube,Awareness_Global,Global,instream_30s,570.34,60958,330,6,378.55
+2026-09-06,YouTube,Awareness_Global,Global,instream_30s,555.2,72888,424,15,992.39
+2026-09-07,YouTube,Awareness_Global,Global,instream_30s,490.84,53701,346,7,461.6
+2026-09-08,YouTube,Awareness_Global,Global,instream_30s,583.48,65996,415,11,751.84
+2026-09-09,YouTube,Awareness_Global,Global,instream_30s,616.07,74838,455,6,414.12
+2026-09-10,YouTube,Awareness_Global,Global,instream_30s,566.0,60595,380,6,395.15
+2026-09-11,YouTube,Awareness_Global,Global,instream_30s,551.94,61492,413,5,327.47
+2026-09-12,YouTube,Awareness_Global,Global,instream_30s,530.99,58712,427,5,316.34
+2026-09-13,YouTube,Awareness_Global,Global,instream_30s,505.88,49455,332,3,194.67
+2026-09-14,YouTube,Awareness_Global,Global,instream_30s,567.1,64758,407,3,186.94
+2026-09-15,YouTube,Awareness_Global,Global,instream_30s,498.18,54499,317,8,498.29
+2026-09-16,YouTube,Awareness_Global,Global,instream_30s,523.0,55659,344,4,251.31
+2026-09-17,YouTube,Awareness_Global,Global,instream_30s,539.61,62928,423,6,383.01
+2026-09-18,YouTube,Awareness_Global,Global,instream_30s,553.1,63424,382,12,768.81
+2026-09-19,YouTube,Awareness_Global,Global,instream_30s,588.97,61434,368,8,503.63
+2026-09-20,YouTube,Awareness_Global,Global,instream_30s,574.56,63359,389,7,461.95
+2026-09-21,YouTube,Awareness_Global,Global,instream_30s,621.02,68655,391,7,443.19
+2026-09-22,YouTube,Awareness_Global,Global,instream_30s,541.42,61995,415,10,656.9
+2026-09-23,YouTube,Awareness_Global,Global,instream_30s,581.51,64916,418,5,335.31
+2026-09-24,YouTube,Awareness_Global,Global,instream_30s,581.91,62848,379,9,566.12
+2026-09-25,YouTube,Awareness_Global,Global,instream_30s,598.81,69607,408,2,134.52
+2026-09-26,YouTube,Awareness_Global,Global,instream_30s,429.19,49951,306,4,262.57
+2026-09-27,YouTube,Awareness_Global,Global,instream_30s,564.29,63739,382,10,708.29
+2026-09-28,YouTube,Awareness_Global,Global,instream_30s,585.78,65242,409,7,453.09
+2026-09-29,YouTube,Awareness_Global,Global,instream_30s,583.14,69040,407,3,201.76
+2026-09-30,YouTube,Awareness_Global,Global,instream_30s,628.54,72030,461,6,374.6
+2026-10-01,YouTube,Awareness_Global,Global,instream_30s,563.25,57930,384,7,437.0
+2026-10-02,YouTube,Awareness_Global,Global,instream_30s,558.8,71573,381,4,257.53
+2026-10-03,YouTube,Awareness_Global,Global,instream_30s,546.86,60666,334,7,439.53
+2026-10-04,YouTube,Awareness_Global,Global,instream_30s,491.96,54629,355,5,302.57
+2026-10-05,YouTube,Awareness_Global,Global,instream_30s,600.22,69763,435,4,255.35
+2026-10-06,YouTube,Awareness_Global,Global,instream_30s,573.88,63810,405,4,246.18
+2026-10-07,YouTube,Awareness_Global,Global,instream_30s,547.1,60585,350,6,389.38
+2026-10-08,YouTube,Awareness_Global,Global,instream_30s,543.52,58687,364,7,442.76
+2026-10-09,YouTube,Awareness_Global,Global,instream_30s,521.38,59272,332,11,660.95
+2026-10-10,YouTube,Awareness_Global,Global,instream_30s,514.29,62161,331,2,124.71
+2026-10-11,YouTube,Awareness_Global,Global,instream_30s,505.88,60885,356,6,403.54
+2026-10-12,YouTube,Awareness_Global,Global,instream_30s,551.08,62230,373,4,241.68
+2026-10-13,YouTube,Awareness_Global,Global,instream_30s,521.68,59539,349,3,199.64
+2026-10-14,YouTube,Awareness_Global,Global,instream_30s,553.81,64432,392,6,391.49
+2026-10-15,YouTube,Awareness_Global,Global,instream_30s,497.24,58282,365,7,465.53
+2026-10-16,YouTube,Awareness_Global,Global,instream_30s,561.97,64466,390,5,320.47
+2026-10-17,YouTube,Awareness_Global,Global,instream_30s,601.89,65057,352,5,314.16
+2026-10-18,YouTube,Awareness_Global,Global,instream_30s,605.23,66227,397,6,391.1
+2026-10-19,YouTube,Awareness_Global,Global,instream_30s,604.59,64639,378,5,323.77
+2026-10-20,YouTube,Awareness_Global,Global,instream_30s,502.11,52639,307,2,129.73
+2026-10-21,YouTube,Awareness_Global,Global,instream_30s,586.43,64554,364,10,679.19
+2026-10-22,YouTube,Awareness_Global,Global,instream_30s,596.49,64086,358,6,398.37
+2026-10-23,YouTube,Awareness_Global,Global,instream_30s,476.47,51151,266,4,254.58
+2026-10-24,YouTube,Awareness_Global,Global,instream_30s,633.13,65791,405,6,403.17
+2026-10-25,YouTube,Awareness_Global,Global,instream_30s,469.83,49427,310,5,297.37
